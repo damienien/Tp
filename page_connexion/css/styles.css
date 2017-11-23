@@ -1,0 +1,15 @@
+/* styles.css */
+#alert-box {
+  margin-top: 15px;
+}
+#onglets {
+  margin-top: 20px;
+}
+.logosite{
+	width: 4%;
+	height: 4%;
+}
+#titre{
+	text-decoration: none;
+	color: black;
+}
